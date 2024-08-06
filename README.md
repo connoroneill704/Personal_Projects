@@ -1,6 +1,7 @@
 # Personal_Projects
 A collection of personal projects
 
+
 Flight Delay Predictor
 
 This project takes a dataset from various airlines and airports and 
