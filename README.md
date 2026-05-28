@@ -1,18 +1,29 @@
-# Personal-Projects
-A collection of personal projects. 
+# Personal Projects
 
-**Flight Delay Forecaster**\
-This model uses various data science techinques including multidimensional scalaing and logistical regression to predict the liklihood of a delay greater than 15 minutes. 
-Included is a formal report of our findings including an introduction, methods, and results section.
+A collection of software engineering and data science projects focused on full-stack development, API integration, machine learning, and data analysis.
 
-**Stock Price Predictor**\
-This Random Forest model predicts the future trends of the S&P500 stock to inform a buyer whether to purchase the stock or not. It uses the most important individual stocks that 
-compose the index and various macroeconomic trends to increase the precision of this model.
+## Projects
 
-**API Movie Database**\
-This database uses two seperate APIs to create a user friendly experience that displays basic information about a given movie and presents an accurate movie poster. A search bar and 
-infinite scrolling are utilized to help the user find the movie they are looking for.
+### Agronomy Department Management App
+A web application for a golf course agronomy department to manage job boards, track equipment, flag areas needing attention, and improve communication across teams.
 
-**Agronomy Department Management App**\
-This application creates a friednly enviroment for an agronomy department at a golf course to create a job board for the employees, track the equipment available, note what areas need
-extra attention, and communicate with other departments.
+**Tech:** JavaScript, HTML, CSS  
+**Focus:** Full-stack development, internal tools, workflow management
+
+### API Movie Database
+A movie search application that uses external APIs to display movie information, posters, search results, and infinite scrolling for a smoother user experience.
+
+**Tech:** JavaScript, HTML, CSS, REST APIs  
+**Focus:** API integration, frontend development, dynamic search
+
+### Flight Delay Forecaster
+A data science model that uses multidimensional scaling and logistic regression to predict whether a flight delay will exceed 15 minutes. Includes a formal report with introduction, methods, and results.
+
+**Tech:** Python, Jupyter Notebook, logistic regression, data visualization  
+**Focus:** Predictive modeling, classification, data analysis
+
+### Stock Price Predictor
+A Random Forest model that predicts future S&P 500 trends using individual stock features and macroeconomic indicators to support buy/sell decision-making.
+
+**Tech:** Python, Jupyter Notebook, Random Forest, data analysis  
+**Focus:** Machine learning, financial modeling, feature importance
