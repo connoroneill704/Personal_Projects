@@ -1,0 +1,13 @@
+*.o
+*.obj
+*.exe
+*.out
+a.out
+core
+core.*
+*.d
+*.tmp
+*.swp
+*~
+.vscode/
+.idea/
