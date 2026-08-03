@@ -80,10 +80,13 @@ as part of an operating systems course at the University of Arizona.
 
 ## My Contributions
 
-- Contributed to implementing and debugging process-management and scheduling logic
-- Helped develop mailbox-based synchronization and interprocess communication
-- Implemented and tested clock, terminal, and disk system-call services
-- Debugged interrupts, blocking behavior, device operations, validation, and integration issues
+I served as the primary developer and completed the majority of the implementation, integration, testing, and debugging across the project phases.
+
+- Implemented and debugged process-management and scheduling logic
+- Developed mailbox-based synchronization and interprocess communication
+- Implemented and tested user-mode system calls and kernel service interfaces
+- Implemented clock, terminal, and disk device services
+- Debugged interrupts, blocking behavior, device operations, validation, and cross-phase integration issues
 
 ## Build Requirements
 
