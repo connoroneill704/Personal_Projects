@@ -1,2 +1,12 @@
 /game2048$1.class
 /game2048.class
+*.class
+*.jar
+bin/
+target/
+out/
+.settings/
+.metadata/
+.vscode/
+.idea/
+.DS_Store
